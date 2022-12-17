@@ -22,5 +22,10 @@
     "id": "RCC-fabric-1.19.2-1.0.0-unofficial-6G",
     "url": "https://www.realitycityconstruction.cn/download/mods/10u6g/RCC-fabric-1.19.2-1.0.0-unofficial-6G.jar",
     "sha1": "35501d86da8c216af344b2474ee666167f910491"
+},
+{
+    "id": "OptiFine",
+    "url": "https://www.nziiarr.top/server/OptiFine.jar",
+    "sha1": "35501d86da8c216af344b2474ee666167f910491"
 }
 ]
